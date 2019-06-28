@@ -31,14 +31,14 @@
             ]}
         ],
         "mais_vendidos":[
-            {"id":11, "nome":"Betoneira 400 litros", "imagem":"link"},
-            {"id":11, "nome":"Compactador de solo", "imagem":"link"},
-            {"id":11, "nome":"Cortador de piso", "imagem":"link"},
-            {"id":11, "nome":"Martelo demolidor", "imagem":"link"},
-            {"id":11, "nome":"Politriz para concreto", "imagem":"link"},
-            {"id":11, "nome":"Andaimes", "imagem":"link"},
-            {"id":11, "nome":"Serra Mármore", "imagem":"link"},
-            {"id":11, "nome":"Cortador de grama", "imagem":"link"}
+            {"id":11, "nome":"Betoneira 400 litros", "imagem":"https://res.cloudinary.com/dvm8w4ktl/image/upload/v1561570995/images/img-betoneira_oeb2l6.png"},
+            {"id":11, "nome":"Compactador de solo", "imagem":"https://res.cloudinary.com/dvm8w4ktl/image/upload/v1561571410/images/img-compactador_tjdsxg.png"},
+            {"id":11, "nome":"Cortador de piso", "imagem":"https://res.cloudinary.com/dvm8w4ktl/image/upload/v1561570995/images/img-betoneira_oeb2l6.png"},
+            {"id":11, "nome":"Martelo demolidor", "imagem":"https://res.cloudinary.com/dvm8w4ktl/image/upload/v1561570995/images/img-betoneira_oeb2l6.png"},
+            {"id":11, "nome":"Politriz para concreto", "imagem":"https://res.cloudinary.com/dvm8w4ktl/image/upload/v1561570995/images/img-betoneira_oeb2l6.png"},
+            {"id":11, "nome":"Andaimes", "imagem":"https://res.cloudinary.com/dvm8w4ktl/image/upload/v1561570995/images/img-betoneira_oeb2l6.png"},
+            {"id":11, "nome":"Serra Mármore", "imagem":"https://res.cloudinary.com/dvm8w4ktl/image/upload/v1561570995/images/img-betoneira_oeb2l6.png"},
+            {"id":11, "nome":"Cortador de grama", "imagem":"https://res.cloudinary.com/dvm8w4ktl/image/upload/v1561570995/images/img-betoneira_oeb2l6.png"}
         ]
     }
 }
