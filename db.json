@@ -1,0 +1,44 @@
+{
+    "categorias": {
+        "categorias":[
+            {"id":1,
+            "nome":"Concretagem",
+            "imagem":"https://res.cloudinary.com/dvm8w4ktl/image/upload/v1561569463/Icons/Betoneira_qbxfnd.png",
+            "subcategoria":[
+                {"id":11, "nome":"Acabadora de Piso", "imagem":"link", "quantidade_estoque":15},
+                {"id":11, "nome":"Betoneira", "imagem":"link", "quantidade_estoque":15},
+                {"id":11, "nome":"Cortadora de Piso", "imagem":"link", "quantidade_estoque":15},
+                {"id":11, "nome":"Mangote", "imagem":"link", "quantidade_estoque":15},
+                {"id":11, "nome":"Misturador", "imagem":"link", "quantidade_estoque":15},
+                {"id":11, "nome":"Motovibrador", "imagem":"link", "quantidade_estoque":15},
+                {"id":11, "nome":"Politriz para concreto", "imagem":"link", "quantidade_estoque":15},
+                {"id":11, "nome":"Régua Vibratória", "imagem":"link", "quantidade_estoque":15},
+                {"id":11, "nome":"Vibrador para concreto", "imagem":"link", "quantidade_estoque":15}
+            ]},
+            {"id":2,
+                "nome":"Equipamento de limpeza",
+                "imagem":"https://res.cloudinary.com/dvm8w4ktl/image/upload/v1561569475/Icons/compactacao_qfwmn4.png",
+                "subcategoria":[
+                {"id":11, "nome":"Acabadora de Piso", "imagem":"link", "quantidade_estoque":15},
+                {"id":11, "nome":"Betoneira", "imagem":"link", "quantidade_estoque":15},
+                {"id":11, "nome":"Cortadora de Piso", "imagem":"link", "quantidade_estoque":15},
+                {"id":11, "nome":"Mangote", "imagem":"link", "quantidade_estoque":15},
+                {"id":11, "nome":"Misturador", "imagem":"link", "quantidade_estoque":15},
+                {"id":11, "nome":"Motovibrador", "imagem":"link", "quantidade_estoque":15},
+                {"id":11, "nome":"Politriz para concreto", "imagem":"link", "quantidade_estoque":15},
+                {"id":11, "nome":"Régua Vibratória", "imagem":"link", "quantidade_estoque":15},
+                {"id":11, "nome":"Vibrador para concreto", "imagem":"link", "quantidade_estoque":15}
+            ]}
+        ],
+        "mais_vendidos":[
+            {"id":11, "nome":"Betoneira 400 litros", "imagem":"link"},
+            {"id":11, "nome":"Compactador de solo", "imagem":"link"},
+            {"id":11, "nome":"Cortador de piso", "imagem":"link"},
+            {"id":11, "nome":"Martelo demolidor", "imagem":"link"},
+            {"id":11, "nome":"Politriz para concreto", "imagem":"link"},
+            {"id":11, "nome":"Andaimes", "imagem":"link"},
+            {"id":11, "nome":"Serra Mármore", "imagem":"link"},
+            {"id":11, "nome":"Cortador de grama", "imagem":"link"}
+        ]
+    }
+}
